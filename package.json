@@ -12,6 +12,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "typesafe-actions": "^5.1.0"
   }
 }
